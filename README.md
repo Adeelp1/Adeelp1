@@ -1,4 +1,4 @@
-- Hi iam @Adeelp1
+- Hi, i'm @Adeelp1
 - 🌱 I’m currently learning more DS & Algo, some ML Topics.
 - 👀 I’m interested in Software Engineering, Machine Learning, NLP, Search and Recommendations.
 - 📫 How to reach me -> adeelpv360@gmail.com
